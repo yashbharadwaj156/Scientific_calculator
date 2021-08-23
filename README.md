@@ -9,7 +9,7 @@ This repository contains c++ based interactive scientific caclcualtor.
 2. A will find a dashboard of various functions.
 3. A just has to press the button for it's required function.
 4. Then he has to enter the numbers.
-5. tadda!! you  will get your result.
+5. Taadda!! you  will get your result.
 
 # author
 Yash Bharadwaj
